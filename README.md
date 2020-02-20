@@ -18,6 +18,6 @@
   
 </ul>
 <p>The soup object allows you to extract interesting information about the website you're scraping such as getting the title of the page as shown below.</p>
-  <p># Get the title
-title = soup.title
+  <p># Get the title<br>
+title = soup.title<br>
 print(title)</p>
